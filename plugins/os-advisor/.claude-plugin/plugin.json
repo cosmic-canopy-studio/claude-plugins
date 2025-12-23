@@ -1,6 +1,0 @@
-{
-  "name": "os-advisor",
-  "version": "1.0.0",
-  "description": "OS Advisor plugin providing YouTube video transcription capabilities with both caption extraction and audio processing using Whisper models. Includes specialized agents for audio/video processing and guidance on optimal transcription strategies.",
-  "author": "Cosmic Canopy Studio"
-}

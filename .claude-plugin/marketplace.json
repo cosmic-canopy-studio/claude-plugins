@@ -41,55 +41,6 @@
       "source": "./plugins/software-architecture",
       "description": "Architecture knowledge extraction with 12 skills and 12 agents",
       "category": "architecture"
-    },
-    {
-      "name": "pm-toolkit",
-      "version": "1.0.0",
-      "source": "./plugins/pm-toolkit",
-      "description": "Project management with PRD generation, research synthesis",
-      "category": "project-management"
-    },
-    {
-      "name": "claude-globals",
-      "version": "1.0.0",
-      "source": "./plugins/claude-globals",
-      "description": "Shared global commands and utility agents",
-      "category": "utilities"
-    },
-    {
-      "name": "stationeers-companion",
-      "version": "1.0.0",
-      "source": "./plugins/stationeers-companion",
-      "description": "Stationeers game companion with IC assembly support",
-      "category": "game-development"
-    },
-    {
-      "name": "netmon",
-      "version": "1.0.0",
-      "source": "./plugins/netmon",
-      "description": "Network monitoring utilities",
-      "category": "utilities"
-    },
-    {
-      "name": "os-advisor",
-      "version": "1.0.0",
-      "source": "./plugins/os-advisor",
-      "description": "Operating system guidance and audio/video processing",
-      "category": "utilities"
-    },
-    {
-      "name": "asset-helper",
-      "version": "1.0.0",
-      "source": "./plugins/asset-helper",
-      "description": "Asset management and research agents",
-      "category": "utilities"
-    },
-    {
-      "name": "catalyst-game",
-      "version": "1.0.0",
-      "source": "./plugins/catalyst-game",
-      "description": "Catalyst game development with Godot patterns",
-      "category": "game-development"
     }
   ]
 }
