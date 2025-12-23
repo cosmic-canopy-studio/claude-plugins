@@ -1,0 +1,6 @@
+{
+  "name": "claude-globals",
+  "version": "1.0.0",
+  "description": "Shared utilities for Claude Code including research agents, planning commands, and code formatting hooks",
+  "author": "Cosmic Canopy Studio"
+}

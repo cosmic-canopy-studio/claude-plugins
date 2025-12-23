@@ -1,0 +1,11 @@
+{
+  "name": "godot-advisor",
+  "version": "1.0.0",
+  "description": "Godot game engine development workflows with skills and agents",
+  "author": {
+    "name": "Cosmic Canopy Studio",
+    "url": "https://github.com/cosmic-canopy-studio"
+  },
+  "repository": "https://github.com/cosmic-canopy-studio/claude-plugins",
+  "license": "MIT"
+}

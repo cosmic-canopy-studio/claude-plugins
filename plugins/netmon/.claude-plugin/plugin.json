@@ -1,0 +1,6 @@
+{
+  "name": "netmon",
+  "version": "1.0.0",
+  "description": "Network monitoring skills for Prometheus, Docker Compose, and Home Assistant integrations. Generate monitoring configurations, alert rules, and automation webhooks.",
+  "author": "Cosmic Canopy Studio"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "catalyst-game",
+  "version": "1.0.0",
+  "description": "Godot 4.x development tools for the Catalyst game project by Cosmic Canopy Studio. Includes GDScript formatting, static typing enforcement, code analysis, pattern extraction, and Godot-specific development workflows.",
+  "author": "Cosmic Canopy Studio",
+  "license": "MIT",
+  "repository": "https://github.com/cosmic-canopy-studio/catalyst-game"
+}

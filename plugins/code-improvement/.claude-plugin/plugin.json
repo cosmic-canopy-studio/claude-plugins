@@ -1,0 +1,19 @@
+{
+  "name": "code-improvement",
+  "version": "1.0.0",
+  "description": "Knowledge pipeline with 22 skills, 24 commands, 10 agents for meta-learning and analysis",
+  "author": {
+    "name": "Cosmic Canopy Studio",
+    "url": "https://github.com/cosmic-canopy-studio"
+  },
+  "homepage": "https://github.com/cosmic-canopy-studio/claude-plugins/tree/main/plugins/code-improvement",
+  "repository": "https://github.com/cosmic-canopy-studio/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "knowledge-pipeline",
+    "analysis",
+    "synthesis",
+    "meta-skills",
+    "quality-gates"
+  ]
+}

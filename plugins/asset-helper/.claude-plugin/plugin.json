@@ -1,0 +1,6 @@
+{
+  "name": "asset-helper",
+  "version": "1.0.0",
+  "description": "Asset management and research tools for game development workflows. Provides specialized knowledge base locators for Krita, Aseprite, Blender, and Tiled, along with web research and guide writing capabilities for asset creation.",
+  "author": "Cosmic Canopy Studio"
+}

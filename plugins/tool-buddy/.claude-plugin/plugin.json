@@ -1,0 +1,19 @@
+{
+  "name": "tool-buddy",
+  "version": "1.0.0",
+  "description": "Development workflow with RPI commands and 9 thinking skills for systematic problem-solving",
+  "author": {
+    "name": "Cosmic Canopy Studio",
+    "url": "https://github.com/cosmic-canopy-studio"
+  },
+  "homepage": "https://github.com/cosmic-canopy-studio/claude-plugins/tree/main/plugins/tool-buddy",
+  "repository": "https://github.com/cosmic-canopy-studio/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "workflow",
+    "debugging",
+    "brainstorming",
+    "problem-solving",
+    "development"
+  ]
+}
