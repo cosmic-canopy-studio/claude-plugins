@@ -7,33 +7,7 @@
     "url": "https://github.com/cosmic-canopy-studio"
   },
   "repository": "https://github.com/cosmic-canopy-studio/claude-plugins",
+  "homepage": "https://github.com/cosmic-canopy-studio/claude-plugins/tree/main/plugins/software-architecture",
   "license": "MIT",
-  "skills": [
-    "analyze-book",
-    "analyze-books",
-    "build-knowledge",
-    "curate-chapter",
-    "curate-knowledge",
-    "extract-book",
-    "extract-books",
-    "extract-candidates",
-    "ingest-books",
-    "merge-chapters",
-    "search-knowledge",
-    "validate-extractions"
-  ],
-  "agents": [
-    "book-extractor",
-    "candidate-extractor",
-    "candidate-validator",
-    "category-merger",
-    "chapter-merger",
-    "content-validator",
-    "format-comparator",
-    "image-describer",
-    "item-curator",
-    "knowledge-indexer",
-    "output-formatter",
-    "theme-synthesizer"
-  ]
+  "keywords": ["architecture", "patterns", "knowledge-extraction", "books"]
 }
